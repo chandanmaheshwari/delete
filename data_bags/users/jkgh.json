@@ -1,0 +1,7 @@
+{
+    "id": "jkgh",
+    "ssh_keys": "HAvm4vkcQMC/Xon4cG40IhBlnJR1Ygwhyj+d17ky",
+    "groups": [ "sysadmin", "dba", "devops" ],
+    "uid": 2001,
+    "shell": "\/bin\/bash"
+}

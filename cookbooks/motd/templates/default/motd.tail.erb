@@ -1,0 +1,5 @@
+This <%= node['platform'] %> server is property of <%= node['company'] %>
+The value of node['pci']['in_scope'] is <%= node['pci']['in_scope'] %>
+<% if node['pci']['in_scope'] -%>
+This server is in pci-compliance.
+<% end -%>
